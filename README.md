@@ -17,7 +17,6 @@ This project demonstrates the practical application of embedded systems, compute
 1. ESP32-CAM module
 2. USB-to-serial programmer or compatible ESP32-CAM programmer
 3. Active buzzer
-4. NPN transistor or suitable buzzer driver, if required
 5. Jumper wires
 6. Stable power supply
 7. Computer or laptop
